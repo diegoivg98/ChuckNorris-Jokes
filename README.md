@@ -11,3 +11,6 @@ Se debe mostrar el número de chistes te "han gustado" y cuántos "te han disgus
 # Extra
 
 - Al momento de votar Like/Dislike deshabilitar ambos botones y obligar a generar un nuevo chiste random
+
+![imagen de chiste random](https://raw.githubusercontent.com/diegoivg98/ChuckNorris-Jokes/master/img1.png)
+![votacion del chiste](https://raw.githubusercontent.com/diegoivg98/ChuckNorris-Jokes/master/img2.png)
